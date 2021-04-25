@@ -1,0 +1,8 @@
+path C:\nodejs\cadviewer
+
+npm i express
+npm i request
+node CV_6.4.30.js
+
+npm install http-server -g
+http-server -p 8081
