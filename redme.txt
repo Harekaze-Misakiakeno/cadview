@@ -5,3 +5,6 @@ npm i request
 node CV_6.4.30.js
 npm install http-server -g
 http-server -p 8081
+
+
+http://127.0.0.1:8081/html/CADYoshinoViewerTextsearch.html?file=http://127.0.0.1:8081/dwg/eng.dwg
